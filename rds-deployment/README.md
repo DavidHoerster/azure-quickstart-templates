@@ -1,4 +1,4 @@
-# Create Remote Desktop Sesson Collection deployment
+# Create Remote Desktop Session Collection deployment
 
 This template deploys the following resources:
 
